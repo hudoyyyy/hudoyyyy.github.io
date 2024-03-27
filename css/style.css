@@ -1,0 +1,26 @@
+.lead-form{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 30px 10px;
+}
+
+.lead-form-input{
+    margin: 10px;
+    padding: 5px;
+}
+
+.status-table{
+    margin: 20px;
+    width: 90%;
+    border: 1px solid;
+}
+
+.status-table-column {
+    width: 20%;
+    border: 1px solid;
+}
+
+.status-table-row{
+    border: 1px solid;
+}
